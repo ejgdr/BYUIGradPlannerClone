@@ -2,6 +2,8 @@
 
 A functional clone of [BYU-Idaho's Grad Planner](https://iplan.byui.edu/grad_planner), built for the Week 8 Greenfield Interview assignment.
 
+**Live demo:** https://ejgdr.github.io/BYUIGradPlannerClone/
+
 Built with the **lightest possible stack**: plain HTML, CSS, and vanilla JavaScript. No frameworks, no build step, no server, no dependencies. It runs by opening a single file and deploys for free on GitHub Pages.
 
 ## Features
